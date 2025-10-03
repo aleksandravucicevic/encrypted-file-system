@@ -1,0 +1,10 @@
+V	350307171603Z		01	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=client1/emailAddress=client1@mail.com
+V	250314171655Z		02	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=client2/emailAddress=client2@mail.com
+V	260309171810Z		03	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=client3/emailAddress=client3@mail.com
+R	260309171917Z	250312211806Z,certificateHold	04	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=client4/emailAddress=client4@mail.com
+V	260309172022Z		06	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=client6/emailAddress=client6@mail.com
+V	350307172234Z		07	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=client7/emailAddress=client7@mail.com
+V	350307172323Z		08	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=client8/emailAddress=client8@mail.com
+V	350307172405Z		09	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=client9/emailAddress=client9@mail.com
+R	350307172501Z	250309173720Z,certificateHold	0A	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=client10/emailAddress=client10@mail.com
+V	260309172553Z		0B	unknown	/C=BA/ST=RS/O=Elektrotehnicki fakultet/OU=ETF/CN=client11/emailAddress=client11@mail.com
